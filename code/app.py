@@ -11,8 +11,8 @@ from sklearn.linear_model import LogisticRegression
 # In[2]:
 
 
-train = pd.read_csv("C:\\Users\\ACS\\OneDrive\\Desktop\\New folder\\Titanic_train.csv")
-test = pd.read_csv("C:\\Users\\ACS\\OneDrive\\Desktop\\New folder\\Titanic_test.csv")
+train = pd.read_csv("Downloads\\Titanic_train.csv")
+test = pd.read_csv("Downloads\\Titanic_test.csv")
 
 
 # In[3]:
